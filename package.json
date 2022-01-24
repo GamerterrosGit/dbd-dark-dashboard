@@ -1,5 +1,5 @@
 {
-  "name": "dbd-dark-dashboard",
+  "name": "@gamerterros/dbd-dark-dashboard",
   "version": "1.5.32",
   "description": "Discord Dashboard Theme",
   "main": "index.js",
